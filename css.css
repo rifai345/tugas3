@@ -1,0 +1,34 @@
+.container{
+    width:800px;
+    margin: auto;
+    background-color: aquamarine;
+}
+
+.awalan .subasa{
+    text-align: center;
+}
+
+.awalan ul li{
+    display: inline-block;
+    margin-top: 10px;
+    margin-right:5px;
+}
+
+.awalan a {
+    text-decoration: none;
+    color:salmon;
+    padding: 3px;
+}
+
+.awalan a:hover{
+    background-color:lightskyblue;
+    color:white;
+}
+
+
+.hero{
+    width: 250px;
+    background-image: url(img/);
+}
+
+
